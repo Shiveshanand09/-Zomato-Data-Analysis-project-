@@ -1,3 +1,6 @@
+
+![Screenshot 2024-09-26 173648](https://github.com/user-attachments/assets/2d5655f0-29ee-43c8-8a63-cf46bba1d125)
+
 # -Zomato-Data-Analysis-project-# Zomato Data Analysis Project
 
 This project is a data analysis of Zomato's dataset, exploring various aspects of the data, such as restaurant ratings, locations, cuisines, and pricing. It utilizes data manipulation, visualization, and analysis techniques using popular Python libraries.
